@@ -1,1 +1,1 @@
-# exerciocio-ingressos-java
+# exercicio-ingressos-java
